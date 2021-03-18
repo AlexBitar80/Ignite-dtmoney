@@ -7,7 +7,7 @@ export const Container = styled.div`
   margin-top: -4.5rem;
 
   div {
-    background-color: var(--shape);
+    background: var(--shape);
     padding: 1.5rem 2rem;
     color: var(--text-title);
     border-radius: 0.25rem;
@@ -27,7 +27,7 @@ export const Container = styled.div`
     }
 
     &.highlight-background {
-      background-color: var(--green);
+      background: var(--green);
       color: #fff;
     }
   }
