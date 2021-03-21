@@ -1,4 +1,4 @@
-<h2 align="center">dt money</h2>
+<h2 align="center">Módulo primeira aplicação web com react.js</h2>
 
 <br/>
 
@@ -16,14 +16,17 @@
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AlexBitar80/Ignite-dtmoney">
 </p>
 
-<h5 align="center">esse projeto foi desenvolvido durante o segundo módulo do treinamento Ignite.</h5>
+<strong align="center">
+Nesse módulo do Ignite iniciamos um projeto React.js utilizando o <a href="https://github.com/facebook/create-react-app">create-react-app</a> que já nos traz toda uma aplicação react funcional já configurada para apenas começarmos sem se preocupar com configuração do webpack e babel, fizemos uso da api de contexto do react, reforçamos os conceitos de componentização, consumimos uma API utilizando o <a href="https://github.com/axios/axios">Axios</a> e criamos nosso próprio hook de transações.
+</strong>
 
+<br/>
 <br/>
 
 ## :gear: Sobre este projeto
 
 <p align="center">
-  Essa é uma aplicação para cadastro de transações de entradas e saídas onde você pode cadastrar e visualizar o valor de entradas, saídas e o total que ainda tem disponível na conta.
+  durante as aulas nós desenvolvemos uma aplicação para cadastro de transações de entradas e saídas onde você pode cadastrar e visualizar o valor de entradas, saídas e o total que ainda tem disponível na conta.
 </p>
 
 ## :hammer_and_pick: Tecnologias usadas
@@ -35,6 +38,7 @@
 -  [styled-components](https://styled-components.com/)
 -  [polished](https://polished.js.org/)
 -  [mirage.js](https://miragejs.com/)
+-  [axios](https://github.com/axios/axios)
 
 ## :star: Testar o projeto
 
